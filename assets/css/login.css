@@ -1,0 +1,16 @@
+
+section{
+    background-color: #a8a29e;
+}
+
+#img-login{
+    border-radius: 1rem 0 0 1rem; 
+    object-fit: cover;
+}
+
+h5 {
+    letter-spacing: 1px;
+}
+.card{
+    border-radius: 1rem;
+}

@@ -8,7 +8,7 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <nav class="navbar navbar-expand-lg" style="background-color: #e7e5e4;">
         <div class="container-fluid">
             <a class="navbar-brand" href="#"><i class="bi bi-card-checklist"></i><?php echo APP_NAME;?></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"

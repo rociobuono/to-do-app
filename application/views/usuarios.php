@@ -18,7 +18,7 @@
         <div class="row">
             <div class="col">
                 <br>
-                <table class="table">
+                <table class="table table-hover">
                     <thead>
                         <tr>
                             <th scope="col">ID</th>
