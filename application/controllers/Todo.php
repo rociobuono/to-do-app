@@ -5,7 +5,7 @@ class Todo extends CI_Controller{
 	
 	public function __construct()
 	{
-		parent::__construct();
+		parent::__construct(); //llama al constructor padre para tener todas las herr. es necesario
 		if(!$this->session->userdata('usuario_id')){
 			$this->session->set_flashdata("OP", "PROHIBIDO");
 			redirect('auth/login');
